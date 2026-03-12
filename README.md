@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: (https://study-buddy-yt.lovable.app)[https://study-buddy-yt.lovable.app]
+**URL**: [https://study-buddy-yt.lovable.app](https://study-buddy-yt.lovable.app)
 ## How can I edit this code?
 
 There are several ways of editing your application.
