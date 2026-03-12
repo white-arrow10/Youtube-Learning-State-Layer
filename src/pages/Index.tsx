@@ -22,7 +22,7 @@ const SCREEN_LABELS: Record<ScreenId, string> = {
 };
 
 const Index = () => {
-  const [activeScreen, setActiveScreen] = useState<ScreenId>(4);
+  const [activeScreen, setActiveScreen] = useState<ScreenId>(1);
 
   const getSidebarContent = () => {
     switch (activeScreen) {
